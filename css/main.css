@@ -26,3 +26,23 @@ body * {
     float: left;
     background-color: cornflowerblue;
 }
+
+.close {}
+
+form {
+    display: inline-block;
+    width: 100%;
+}
+
+form > .form-row {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+form >.form
+
+form > .form-row > label {
+    display: inline-block;
+    width: 100%;
+}
